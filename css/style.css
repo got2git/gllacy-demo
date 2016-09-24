@@ -726,7 +726,7 @@ a.cart-link.filled::before {
 
 .info {
     position: absolute;
-    right: 0;
+    right: 2.3%;
     bottom: -41px;
     text-align: right;
 }
