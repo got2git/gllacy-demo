@@ -28,7 +28,6 @@ body {
     color: #fff;
     font-weight: 400;
     font-family: Roboto, Arial, sans-serif;
-    background-color: white;
 }
 
 body > input[type="radio"] {
@@ -36,14 +35,22 @@ body > input[type="radio"] {
 }
 
 .container {
+<<<<<<< HEAD
     width: auto;
     padding: 0 2.3%;
     min-width: 900px;
+=======
+    width: 100%;
+>>>>>>> gh-pages
     background: #849d8f url("../img/bg-secondary-gradient.png") repeat-x;
 }
 
 .background-switch {
-    background: url("../img/ice-cream-slide-1.png") no-repeat #849d8f 50% 0;
+    background: #849d8f url("../img/ice-cream-slide-1.png") no-repeat 50% 0;
+}
+
+main, header, footer {
+    padding: 0 2.3%;
 }
 
 main, header, footer {
