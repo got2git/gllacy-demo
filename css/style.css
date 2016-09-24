@@ -23,7 +23,6 @@ body {
     color: #fff;
     font-weight: 400;
     font-family: Roboto, Arial, sans-serif;
-    background-color: white;
 }
 
 body > input[type="radio"] {
@@ -31,12 +30,12 @@ body > input[type="radio"] {
 }
 
 .container {
-    min-width: 900px;
+    width: 100%;
     background: #849d8f url("../img/bg-secondary-gradient.png") repeat-x;
 }
 
 .background-switch {
-    background: url("../img/ice-cream-slide-1.png") no-repeat #849d8f 50% 0;
+    background: #849d8f url("../img/ice-cream-slide-1.png") no-repeat 50% 0;
 }
 
 main, header, footer {
