@@ -38,7 +38,7 @@ body > input[type="radio"] {
     background: #849d8f url("../img/ice-cream-slide-1.png") no-repeat 50% 0;
 }
 
-main, header, footer {
+header, main, footer {
     padding: 0 2.3%;
 }
 
