@@ -38,11 +38,16 @@ body > input[type="radio"] {
 .container {
     width: auto;
     padding: 0 2.3%;
+    min-width: 900px;
     background: #849d8f url("../img/bg-secondary-gradient.png") repeat-x;
 }
 
 .background-switch {
     background: url("../img/ice-cream-slide-1.png") no-repeat #849d8f 50% 0;
+}
+
+main, header, footer {
+    padding: 0 2.3%;
 }
 
 header {
@@ -728,7 +733,7 @@ a.cart-link.filled::before {
 
 .info {
     position: absolute;
-    right: 0;
+    right: 2.3%;
     bottom: -41px;
     text-align: right;
 }
@@ -1166,20 +1171,17 @@ a.blog-news-link::after {
 .contacts {
     position: relative;
     min-height: 430px;
-    width: 100%;
 }
 
 #contacts-map {
-    position: absolute;
     height: 100%;
-    left: -2.4%;
-    width: 1200px;
+    width: 100%;
     background: url("../img/ya-map.jpg") no-repeat 0 0;
 }
 
 .contacts-info {
     position: absolute;
-    right: 0;
+    right: 2.3%;
     top: 50%;
     margin: -161px 0 0 -149px;
     padding: 31px 25px;
