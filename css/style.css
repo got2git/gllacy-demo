@@ -35,13 +35,10 @@ body > input[type="radio"] {
 }
 
 .container {
-<<<<<<< HEAD
     width: auto;
     padding: 0 2.3%;
     min-width: 900px;
-=======
     width: 100%;
->>>>>>> gh-pages
     background: #849d8f url("../img/bg-secondary-gradient.png") repeat-x;
 }
 
