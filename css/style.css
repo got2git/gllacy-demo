@@ -1888,7 +1888,7 @@ a.breadcrumbs-active:hover {
 .filter-btn {
     font-size: 16px;
     line-height: 18px;
-    padding: 8px 28px;
+    padding: 7px 28px 9px;
     color: #fff;
     border: 2px solid #fff;
     background: rgba(255, 255, 255, 0.25);
