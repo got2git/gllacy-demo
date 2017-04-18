@@ -1936,7 +1936,8 @@ a.breadcrumbs-active:hover {
 
 .pagination a.prev,
 .pagination a.next {
-    line-height: 30px;
+    line-height: 40px;
+    font-size: 0;
 }
 
 .pagination a.prev {
