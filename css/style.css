@@ -886,6 +886,7 @@ a.slide-btn {
 
 .products {
     padding: 0;
+    margin: 0 0 40px;
     font-size: 0;
     list-style: none;
 }
@@ -899,7 +900,7 @@ a.slide-btn {
     display: inline-block;
     width: 23.275%;
     font-size: 14px;
-    margin: 0 2.3% 40px 0;
+    margin: 0 2.3% 0 0;
     vertical-align: top;
 }
 
@@ -1462,6 +1463,7 @@ a.social-btn-vk {
 
 .footer-details-left {
     float: left;
+    max-width: 125px;
     text-align: left;
     padding: 0 0 0 22px;
 }
@@ -1494,6 +1496,7 @@ a.social-btn-vk {
 
 .footer-details-right {
     float: right;
+    max-width: 170px;
     text-align: left;
     padding: 0 0 0 32px;
 }
